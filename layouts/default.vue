@@ -1,4 +1,3 @@
-import { AppHeader, UContainer, AppFooter } from '../.nuxt/components';
 <template>
   <div>
     <AppHeader />

@@ -1,6 +1,12 @@
 <template>
   <div>
-    <slot />
+    <AdminHeader />
+    <UContainer>
+      <main>
+        <slot />
+      </main>
+    </UContainer>
+    <AdminFooter />
   </div>
 </template>
 

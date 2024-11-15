@@ -1,5 +1,5 @@
 <template>
-  <NuxtLayout :name="layout"><NuxtPage /></NuxtLayout>
+  <NuxtLayout :name="layout"><NuxtPage /><UNotifications /></NuxtLayout>
 </template>
 
 <script setup lang="ts">
